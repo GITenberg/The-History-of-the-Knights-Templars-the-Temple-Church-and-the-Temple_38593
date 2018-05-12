@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39559
     wikipedia: http://en.wikipedia.org/wiki/Charles_Greenstreet_Addison
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38593#The-History-of-the-Knights-Templars-the-Temple-Church-and-the-Temple
 gutenberg_issued: '2012-01-17'
 gutenberg_type: Text
 identifiers:
